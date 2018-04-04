@@ -2,6 +2,7 @@
 if (!defined('RAPIDLEECH')) { require_once("index.html"); exit; }
 $premium_acc = array();
 
+$premium_acc["openload_co"] = array('user' => 'neutrino658@gmail.com', 'pass' => 'sob7anallah', 'apiuser' => 'db412e827c2a171f', 'apipass' => 'nLnVjBbc');
 ### Remove '//' from the beginning and enter your username and password for enable premium account ###
 //$premium_acc["rapidshare_com"] = array('user' => 'your username', 'pass' => 'your password');
 // For multiple rapidshare premium accounts only - if you are using multiple accounts below, comment out the line above
