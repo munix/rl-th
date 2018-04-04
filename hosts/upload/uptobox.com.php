@@ -20,8 +20,8 @@ $_T8['anonUploadLimit'] = 1024; // File-size limit for non-registered users (MB)
 $acc_key_name = str_ireplace(array('www.', '.'), array('', '_'), $_T8['domain']); // (Do Not Edit)
 
 /* # Account Info # */
-$upload_acc[$acc_key_name]['user'] = ''; //Set your login
-$upload_acc[$acc_key_name]['pass'] = ''; //Set your password
+$upload_acc[$acc_key_name]['user'] = 'neutrino658'; //Set your login
+$upload_acc[$acc_key_name]['pass'] = 'sob7anallah'; //Set your password
 
 function SendLogin($post) {
 	global $_T8, $cookie, $pauth;
